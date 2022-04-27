@@ -14,3 +14,6 @@ Add the following modules to your Python Code:
 
 ## Run the Notebook using Jupyter
 All that is required once you've installed the necessary software and modules is to only run this Jupyter Python Notebook is to just startup Jupyter alone or using the Anaconda Software. This project was created on a Windows 10 Operating System using Anaconda.
+
+## Where to Start
+`Netflix Data Analytics.ipynb` is the main file to start with.
